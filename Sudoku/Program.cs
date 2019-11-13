@@ -30,7 +30,7 @@ namespace Sudoku
                             { 0 , 0 , 5 , 2 , 0 , 6 , 3 , 0 , 0 },
                             };
 
-            Console.WriteLine(Solve(ref sudoku1));
+            //Console.WriteLine(Solve(ref sudoku1));
 
             Console.WriteLine(Solve(ref sudoku2));
 
